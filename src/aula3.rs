@@ -42,6 +42,6 @@ fn loop_for(){
 
 
 
-fn main(){
+pub fn main(){
     repeticoes();
 }

@@ -35,6 +35,6 @@ fn match_statement() {
     println!("O proposito de {} eh {}", linguagem, proposito);
 }
 
-fn main(){
+pub fn main(){
     condicionais();
 }

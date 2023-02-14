@@ -61,6 +61,6 @@ fn result( ) -> Result<String, u8> {
     Err(1)
 }
 
-fn main(){
+pub fn main(){
     ownership();
 }

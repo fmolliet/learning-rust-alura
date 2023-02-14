@@ -71,7 +71,7 @@ fn sombra(){
 }
 
 
-fn main(){
+pub fn main(){
     escopo();
     sombra();
     println!("Soma = {}", soma(2, 4) );
